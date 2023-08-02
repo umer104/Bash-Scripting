@@ -1,3 +1,5 @@
 echo "Hello World"
 echo "Umer Akmal"
 echo "Add New Lines"
+echo "How Are You"
+echo "I am Student of Alnafi"
